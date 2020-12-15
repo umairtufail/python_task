@@ -1,0 +1,500 @@
+Date,Country_Region,positive,recovered,death,gender,age
+2020-01-16,Iceland,3,,,male,66
+2020-01-17,Iceland,4,,,female,56
+2020-01-18,Iceland,7,,,male,46
+2020-01-20,South Korea,1,,,female,60
+2020-01-22,United States,0,,0,male,58
+2020-01-22,United States,0,,0,female,44
+2020-01-22,United States,0,,0,male,34
+2020-01-23,United States,0,,0,male,37
+2020-01-23,United States,0,,0,male,39
+2020-01-23,United States,0,,0,male,56
+2020-01-24,South Korea,2,,,female,18
+2020-01-24,United States,0,,0,female,32
+2020-01-24,United States,0,,0,male,37
+2020-01-24,United States,0,,0,male,51
+2020-01-25,Pakistan,,,,male,57
+2020-01-25,Pakistan,,,,male,56
+2020-01-25,Pakistan,,,,male,50
+2020-01-25,Pakistan,,,,female,52
+2020-01-25,Pakistan,,,,male,33
+2020-01-25,Pakistan,,,,male,40
+2020-01-25,Pakistan,,,,male,70
+2020-01-25,Pakistan,,,,male,51
+2020-01-25,Pakistan,,,,male,NA
+2020-01-25,United Kingdom,1,,,female,28
+2020-01-25,United States,0,,0,male,37
+2020-01-25,United States,0,,0,male,19
+2020-01-25,United States,0,,0,male,29
+2020-01-26,Pakistan,,,,female,66
+2020-01-26,Pakistan,,,,male,46
+2020-01-26,Pakistan,,,,female,32
+2020-01-26,Pakistan,,,,male,28
+2020-01-26,Pakistan,,,,male,55
+2020-01-26,Pakistan,,,,male,68
+2020-01-26,Pakistan,,,,male,38
+2020-01-26,Pakistan,,,,male,72
+2020-01-26,Pakistan,,,,male,45
+2020-01-26,Iceland,13,,,male,42
+2020-01-26,Israel,0,,0,female,33
+2020-01-26,South Korea,3,,,female,33
+2020-01-26,United Kingdom,1,,,male,37
+2020-01-26,United States,0,,0,male,69
+2020-01-26,United States,0,,0,male,63
+2020-01-26,United States,0,,0,female,62
+2020-01-27,Pakistan,,,,male,49
+2020-01-27,Pakistan,,,,male,50
+2020-01-27,Pakistan,,,,male,48
+2020-01-27,Pakistan,,,,male,36
+2020-01-27,Pakistan,,,,female,36
+2020-01-27,Pakistan,,,,male,61
+2020-01-27,Pakistan,,,,male,69
+2020-01-27,Pakistan,,,,male,89
+2020-01-27,Pakistan,,,,male,89
+2020-01-27,Czechia,0,,,male,66
+2020-01-27,Israel,0,,0,male,75
+2020-01-27,South Korea,4,,,female,48
+2020-01-27,United Kingdom,2,,,male,82
+2020-01-27,United States,0,,0,male,66
+2020-01-27,United States,0,,0,male,81
+2020-01-27,United States,0,,0,female,82
+2020-01-28,Pakistan,,,,male,65
+2020-01-28,Pakistan,,,,female,80
+2020-01-28,Pakistan,,,,male,53
+2020-01-28,Pakistan,,,,male,86
+2020-01-28,Pakistan,,,,female,70
+2020-01-28,Pakistan,,,,male,84
+2020-01-28,Pakistan,,,,female,50
+2020-01-28,Pakistan,,,,male,40
+2020-01-28,Pakistan,,,,male,45
+2020-01-28,Czechia,0,,,female,66
+2020-01-28,Israel,0,,0,male,59
+2020-01-28,United Kingdom,,,,female,23
+2020-01-28,United States,0,,0,female,50
+2020-01-28,United States,0,,0,male,43
+2020-01-28,United States,0,,0,male,49
+2020-01-29,Pakistan,,,,male,42
+2020-01-29,Pakistan,,,,female,32
+2020-01-29,Pakistan,,,,male,22
+2020-01-29,Pakistan,,,,male,47
+2020-01-29,Pakistan,,,,male,52
+2020-01-29,Pakistan,,,,male,53
+2020-01-29,Pakistan,,,,male,46
+2020-01-29,Pakistan,,,,female,85
+2020-01-29,Pakistan,,,,female,69
+2020-01-29,Czechia,0,,,male,36
+2020-01-29,Israel,0,,0,male,73
+2020-01-29,United Kingdom,,,,female,70
+2020-01-29,United States,0,,0,male,81
+2020-01-29,United States,0,,0,female,65
+2020-01-29,United States,0,,0,male,42
+2020-01-29,United States,0,,0,male,30
+2020-01-30,Pakistan,,,,female,29
+2020-01-30,Pakistan,,,,female,NA
+2020-01-30,Pakistan,,,,male,49
+2020-01-30,Pakistan,,,,male,23
+2020-01-30,Pakistan,,,,female,56
+2020-01-30,Pakistan,,,,male,39
+2020-01-30,Pakistan,,,,female,39
+2020-01-30,Pakistan,,,,female,34
+2020-01-30,Pakistan,,,,male,49
+2020-01-30,Czechia,0,,,male,70
+2020-01-30,Israel,0,,0,female,76
+2020-01-30,South Korea,7,,,male,72
+2020-01-30,United Kingdom,1,,,male,79
+2020-01-30,United States,0,,0,male,55
+2020-01-30,United States,0,,0,male,87
+2020-01-30,United States,0,,0,female,66
+2020-01-30,United States,0,,0,male,58
+2020-01-31,Pakistan,,,,male,66
+2020-01-31,Pakistan,,,,male,78
+2020-01-31,Pakistan,,,,male,67
+2020-01-31,Pakistan,,,,male,65
+2020-01-31,Pakistan,,,,male,58
+2020-01-31,Pakistan,,,,female,67
+2020-01-31,Pakistan,,,,female,82
+2020-01-31,Pakistan,,,,female,49
+2020-01-31,Pakistan,,,,female,2
+2020-01-31,Canada,4,,0,male,NA
+2020-01-31,Canada,1,,0,female,59
+2020-01-31,Canada,3,,0,male,57
+2020-01-31,Czechia,0,,,female,68
+2020-01-31,Israel,0,,0,male,40
+2020-01-31,Russia,2,,,male,46
+2020-01-31,South Korea,11,,,male,56
+2020-01-31,United Kingdom,2,,,female,29
+2020-01-31,United States,0,,0,male,29
+2020-01-31,United States,0,,0,male,57
+2020-01-31,United States,0,,0,male,30
+2020-01-31,United States,0,,0,female,33
+2020-02-01,Pakistan,,,,female,20
+2020-02-01,Pakistan,,,,female,24
+2020-02-01,Pakistan,,,,male,28
+2020-02-01,Pakistan,,,,male,41
+2020-02-01,Pakistan,,,,male,46
+2020-02-01,Pakistan,,,,female,45
+2020-02-01,Pakistan,,,,female,9
+2020-02-01,Pakistan,,,,male,40
+2020-02-01,Pakistan,,,,male,28
+2020-02-01,Czechia,0,,,male,27
+2020-02-01,Israel,0,,0,male,15
+2020-02-01,South Korea,12,,,female,42
+2020-02-01,United Kingdom,2,,,male,24
+2020-02-01,United States,0,,0,female,32
+2020-02-01,United States,0,,0,male,34
+2020-02-01,United States,0,,0,male,63
+2020-02-01,United States,0,,0,male,58
+2020-02-02,Pakistan,,,,male,NA
+2020-02-02,Pakistan,,,,male,NA
+2020-02-02,Pakistan,,,,male,NA
+2020-02-02,Pakistan,,,,male,49
+2020-02-02,Pakistan,,,,male,33
+2020-02-02,Pakistan,,,,female,55
+2020-02-02,Pakistan,,,,female,79
+2020-02-02,Pakistan,,,,female,19
+2020-02-02,Pakistan,,,,female,58
+2020-02-02,Czechia,0,,,female,39
+2020-02-02,Israel,0,,0,female,21
+2020-02-02,South Korea,15,,,female,30
+2020-02-02,United Kingdom,2,,,female,64
+2020-02-02,United States,0,,0,male,44
+2020-02-02,United States,0,,0,female,70
+2020-02-02,United States,0,,0,female,52
+2020-02-02,United States,0,,0,female,32
+2020-02-03,Armenia,0,0,0,male,33
+2020-02-03,Pakistan,,,,male,71
+2020-02-03,Pakistan,,,,male,31
+2020-02-03,Pakistan,,,,female,48
+2020-02-03,Pakistan,,,,female,19
+2020-02-03,Pakistan,,,,female,68
+2020-02-03,Pakistan,,,,male,71
+2020-02-03,Pakistan,,,,male,35
+2020-02-03,Pakistan,,,,female,4
+2020-02-03,Pakistan,,,,male,38
+2020-02-03,Czechia,0,,,female,69
+2020-02-03,Israel,0,,0,male,50
+2020-02-03,United Kingdom,8,,,male,78
+2020-02-03,United States,0,,0,male,49
+2020-02-03,United States,0,,0,male,34
+2020-02-03,United States,0,,0,male,NA
+2020-02-03,United States,0,,0,female,55
+2020-02-04,Armenia,0,0,0,female,36
+2020-02-04,Pakistan,,,,male,65
+2020-02-04,Pakistan,,,,male,38
+2020-02-04,Pakistan,,,,female,36
+2020-02-04,Pakistan,,,,male,18
+2020-02-04,Pakistan,,,,male,50
+2020-02-04,Pakistan,,,,female,40
+2020-02-04,Pakistan,,,,female,63
+2020-02-04,Pakistan,,,,female,47
+2020-02-04,Pakistan,,,,female,42
+2020-02-04,Czechia,0,,,male,48
+2020-02-04,Israel,0,,0,male,39
+2020-02-04,South Korea,16,,,female,41
+2020-02-04,United Kingdom,8,,,male,31
+2020-02-04,United States,0,,0,male,27
+2020-02-04,United States,0,,0,female,28
+2020-02-04,United States,0,,0,female,51
+2020-02-04,United States,0,,0,male,37
+2020-02-05,Armenia,0,0,0,male,48
+2020-02-05,Pakistan,,,,male,31
+2020-02-05,Pakistan,,,,female,30
+2020-02-05,Pakistan,,,,male,80
+2020-02-05,Pakistan,,,,female,NA
+2020-02-05,Pakistan,,,,NA,NA
+2020-02-05,Pakistan,,,,NA,9
+2020-02-05,Pakistan,,,,NA,NA
+2020-02-05,Pakistan,,,,NA,NA
+2020-02-05,Pakistan,,,,NA,NA
+2020-02-05,Czechia,0,,,NA,NA
+2020-02-05,Israel,0,,0,NA,NA
+2020-02-05,South Korea,18,,,female,33
+2020-02-05,United Kingdom,9,,,male,63
+2020-02-05,United States,0,,0,male,55
+2020-02-05,United States,0,,0,male,36
+2020-02-05,United States,0,,0,male,60
+2020-02-05,United States,0,,0,female,60
+2020-02-06,Armenia,0,0,0,NA,NA
+2020-02-06,Pakistan,,,,NA,NA
+2020-02-06,Pakistan,,,,NA,NA
+2020-02-06,Pakistan,,,,NA,NA
+2020-02-06,Pakistan,,,,NA,NA
+2020-02-06,Pakistan,,,,NA,NA
+2020-02-06,Pakistan,,,,NA,NA
+2020-02-06,Pakistan,,,,NA,NA
+2020-02-06,Pakistan,,,,NA,NA
+2020-02-06,Pakistan,,,,NA,NA
+2020-02-06,Czechia,0,,,male,NA
+2020-02-06,Israel,0,,0,female,58
+2020-02-06,South Korea,23,,,male,31
+2020-02-06,United Kingdom,9,,,NA,NA
+2020-02-06,United States,0,,0,male,72
+2020-02-06,United States,0,,0,male,NA
+2020-02-06,United States,0,,0,male,50
+2020-02-06,United States,0,,0,NA,65
+2020-02-07,Armenia,0,0,0,female,35
+2020-02-07,Pakistan,,,,male,NA
+2020-02-07,Pakistan,,,,female,23
+2020-02-07,Pakistan,,,,male,35
+2020-02-07,Pakistan,,,,male,45
+2020-02-07,Pakistan,,,,female,35
+2020-02-07,Pakistan,,,,male,45
+2020-02-07,Pakistan,,,,male,45
+2020-02-07,Pakistan,,,,male,65
+2020-02-07,Pakistan,,,,female,45
+2020-02-07,Czechia,0,,,female,45
+2020-02-07,Israel,0,,0,male,55
+2020-02-07,South Korea,24,2,,male,55
+2020-02-07,United Kingdom,9,,,female,35
+2020-02-07,United States,0,,0,female,25
+2020-02-07,United States,0,,0,female,25
+2020-02-07,United States,0,,0,male,45
+2020-02-07,United States,0,,0,male,45
+2020-02-08,Pakistan,,,,male,35
+2020-02-08,Pakistan,,,,female,35
+2020-02-08,Pakistan,,,,female,55
+2020-02-08,Pakistan,,,,male,55
+2020-02-08,Pakistan,,,,male,45
+2020-02-08,Pakistan,,,,male,25
+2020-02-08,Pakistan,,,,male,55
+2020-02-08,Pakistan,,,,male,25
+2020-02-08,Pakistan,,,,male,45
+2020-02-08,Canada,7,,0,male,55
+2020-02-08,Canada,4,,0,NA,NA
+2020-02-08,Canada,3,,0,female,85
+2020-02-08,Czechia,0,,,male,75
+2020-02-08,Israel,0,,0,male,55
+2020-02-08,United Kingdom,12,,,male,25
+2020-02-08,United States,0,,0,male,75
+2020-02-08,United States,0,,0,female,65
+2020-02-08,United States,0,,0,female,55
+2020-02-08,United States,0,,0,male,75
+2020-02-09,Pakistan,,,,male,65
+2020-02-09,Pakistan,,,,male,55
+2020-02-09,Pakistan,,,,male,35
+2020-02-09,Pakistan,,,,male,55
+2020-02-09,Pakistan,,,,female,55
+2020-02-09,Pakistan,,,,male,65
+2020-02-09,Pakistan,,,,female,65
+2020-02-09,Pakistan,,,,female,65
+2020-02-09,Pakistan,,,,male,45
+2020-02-09,Czechia,0,,,male,65
+2020-02-09,Israel,0,,0,male,35
+2020-02-09,South Korea,27,3,,male,65
+2020-02-09,United Kingdom,13,,,male,65
+2020-02-09,United States,0,,0,male,65
+2020-02-09,United States,0,,0,female,85
+2020-02-09,United States,0,,0,female,55
+2020-02-09,United States,0,,0,male,55
+2020-02-10,Armenia,0,0,0,male,55
+2020-02-10,Pakistan,,,,female,45
+2020-02-10,Pakistan,,,,male,65
+2020-02-10,Pakistan,,,,male,35
+2020-02-10,Pakistan,,,,male,85
+2020-02-10,Pakistan,,,,male,25
+2020-02-10,Pakistan,,,,male,55
+2020-02-10,Pakistan,,,,male,65
+2020-02-10,Pakistan,,,,male,85
+2020-02-10,Pakistan,,,,male,75
+2020-02-10,Czechia,0,,,male,65
+2020-02-10,Israel,0,,0,male,45
+2020-02-10,United Kingdom,13,,,male,65
+2020-02-10,United States,0,,0,male,65
+2020-02-10,United States,0,,0,male,75
+2020-02-10,United States,0,,0,female,75
+2020-02-10,United States,0,,0,female,75
+2020-02-10,United States,0,,0,female,55
+2020-02-11,Armenia,0,0,0,male,55
+2020-02-11,Pakistan,,,,male,65
+2020-02-11,Pakistan,,,,male,45
+2020-02-11,Pakistan,,,,female,75
+2020-02-11,Pakistan,,,,male,85
+2020-02-11,Pakistan,,,,NA,NA
+2020-02-11,Pakistan,,,,NA,NA
+2020-02-11,Pakistan,,,,male,85
+2020-02-11,Pakistan,,,,male,85
+2020-02-11,Pakistan,,,,female,65
+2020-02-11,Czechia,0,,,male,5
+2020-02-11,Israel,0,,0,male,15
+2020-02-11,Russia,2,1,,female,45
+2020-02-11,South Korea,28,4,,male,55
+2020-02-11,United Kingdom,14,,,NA,5
+2020-02-11,United States,0,,0,female,55
+2020-02-11,United States,0,,0,female,75
+2020-02-11,United States,0,,0,female,55
+2020-02-11,United States,0,,0,male,65
+2020-02-11,United States,0,,0,male,85
+2020-02-12,Pakistan,,,,male,75
+2020-02-12,Pakistan,,,,female,25
+2020-02-12,Pakistan,,,,female,25
+2020-02-12,Pakistan,,,,male,55
+2020-02-12,Pakistan,,,,male,65
+2020-02-12,Pakistan,,,,male,45
+2020-02-12,Pakistan,,,,female,65
+2020-02-12,Pakistan,,,,female,55
+2020-02-12,Pakistan,,,,female,75
+2020-02-12,Czechia,0,,,male,85
+2020-02-12,Israel,0,,0,male,75
+2020-02-12,Russia,2,2,,female,55
+2020-02-12,United Kingdom,15,,,male,65
+2020-02-12,United States,0,,0,female,55
+2020-02-12,United States,0,,0,female,15
+2020-02-12,United States,0,,0,female,55
+2020-02-12,United States,0,,0,male,65
+2020-02-12,United States,0,,0,female,65
+2020-02-13,Pakistan,,,,female,46
+2020-02-13,Pakistan,,,,male,65
+2020-02-13,Pakistan,,,,male,65
+2020-02-13,Pakistan,,,,female,65
+2020-02-13,Pakistan,,,,male,55
+2020-02-13,Pakistan,,,,male,55
+2020-02-13,Pakistan,,,,male,75
+2020-02-13,Pakistan,,,,female,75
+2020-02-13,Pakistan,,,,male,75
+2020-02-13,Czechia,0,,,male,45
+2020-02-13,Israel,0,,0,male,35
+2020-02-13,United Kingdom,16,,,female,65
+2020-02-13,United States,0,,0,male,25
+2020-02-13,United States,0,,0,male,75
+2020-02-13,United States,0,,0,female,35
+2020-02-13,United States,0,,0,male,85
+2020-02-13,United States,0,,0,female,45
+2020-02-14,Armenia,0,0,0,female,25
+2020-02-14,Pakistan,,,,female,55
+2020-02-14,Pakistan,,,,male,55
+2020-02-14,Pakistan,,,,male,65
+2020-02-14,Pakistan,,,,female,75
+2020-02-14,Pakistan,,,,male,55
+2020-02-14,Pakistan,,,,female,25
+2020-02-14,Pakistan,,,,male,55
+2020-02-14,Pakistan,,,,male,55
+2020-02-14,Pakistan,,,,male,45
+2020-02-14,Czechia,0,,,male,55
+2020-02-14,Israel,0,,0,male,35
+2020-02-14,United Kingdom,17,,,female,55
+2020-02-14,United States,0,,0,female,25
+2020-02-14,United States,0,,0,female,25
+2020-02-14,United States,0,,0,male,65
+2020-02-14,United States,0,,0,male,55
+2020-02-14,United States,0,,0,female,65
+2020-02-15,Pakistan,,,,female,65
+2020-02-15,Pakistan,,,,female,55
+2020-02-15,Pakistan,,,,female,75
+2020-02-15,Pakistan,,,,female,75
+2020-02-15,Pakistan,,,,female,45
+2020-02-15,Pakistan,,,,male,55
+2020-02-15,Pakistan,,,,male,65
+2020-02-15,Pakistan,,,,male,75
+2020-02-15,Pakistan,,,,male,25
+2020-02-15,Czechia,0,,,female,25
+2020-02-15,Iceland,15,,,male,75
+2020-02-15,Israel,0,,0,NA,NA
+2020-02-15,United Kingdom,17,,,female,75
+2020-02-15,United States,0,,0,female,75
+2020-02-15,United States,0,,0,male,45
+2020-02-15,United States,0,,0,male,65
+2020-02-15,United States,0,,0,female,45
+2020-02-15,United States,0,,0,male,85
+2020-02-15,United States,0,,0,male,75
+2020-02-16,Pakistan,,,,male,75
+2020-02-16,Pakistan,,,,male,55
+2020-02-16,Pakistan,,,,male,65
+2020-02-16,Pakistan,,,,male,75
+2020-02-16,Pakistan,,,,male,75
+2020-02-16,Pakistan,,,,female,75
+2020-02-16,Pakistan,,,,male,55
+2020-02-16,Pakistan,,,,female,55
+2020-02-16,Pakistan,,,,male,55
+2020-02-16,Canada,8,,0,male,55
+2020-02-16,Canada,5,,0,female,60
+2020-02-16,Canada,3,,0,male,45
+2020-02-16,Czechia,0,,,male,55
+2020-02-16,Israel,0,,0,male,55
+2020-02-16,South Korea,29,9,,male,35
+2020-02-16,United Kingdom,18,,,male,75
+2020-02-16,United States,0,,0,male,65
+2020-02-16,United States,0,,0,male,45
+2020-02-16,United States,0,,0,male,45
+2020-02-16,United States,0,,0,male,5
+2020-02-16,United States,0,,0,male,35
+2020-02-16,United States,0,,0,male,5
+2020-02-17,Pakistan,,,,male,85
+2020-02-17,Pakistan,,,,male,35
+2020-02-17,Pakistan,,,,male,85
+2020-02-17,Pakistan,,,,male,65
+2020-02-17,Pakistan,,,,female,45
+2020-02-17,Pakistan,,,,female,65
+2020-02-17,Pakistan,,,,male,65
+2020-02-17,Pakistan,,,,male,40
+2020-02-17,Pakistan,,,,female,65
+2020-02-17,Czechia,0,,,male,11
+2020-02-17,Israel,0,,0,male,2
+2020-02-17,South Korea,30,9,,female,4
+2020-02-17,United Kingdom,19,,,female,36
+2020-02-17,United States,0,,0,male,52
+2020-02-17,United States,0,,0,female,49
+2020-02-17,United States,0,,0,male,41
+2020-02-17,United States,0,,0,male,63
+2020-02-17,United States,0,,0,male,45
+2020-02-17,United States,0,,0,male,9
+2020-02-18,Armenia,0,0,0,female,40
+2020-02-18,Pakistan,,,,female,37
+2020-02-18,Pakistan,,,,female,59
+2020-02-18,Pakistan,,,,female,67
+2020-02-18,Pakistan,,,,female,65
+2020-02-18,Pakistan,,,,male,31
+2020-02-18,Pakistan,,,,female,39
+2020-02-18,Pakistan,,,,male,27
+2020-02-18,Pakistan,,,,female,32
+2020-02-18,Pakistan,,,,female,83
+2020-02-18,Czechia,0,,,female,53
+2020-02-18,Israel,0,,0,male,32
+2020-02-18,South Korea,31,10,,male,66
+2020-02-18,United Kingdom,19,,,female,53
+2020-02-18,United States,0,,0,male,37
+2020-02-18,United States,0,,0,male,36
+2020-02-18,United States,0,,0,female,56
+2020-02-18,United States,0,,0,male,56
+2020-02-18,United States,0,,0,male,35
+2020-02-18,United States,0,,0,female,56
+2020-02-19,Armenia,0,0,0,male,56
+2020-02-19,Pakistan,,,,male,56
+2020-02-19,Pakistan,,,,female,31
+2020-02-19,Pakistan,,,,female,37
+2020-02-19,Pakistan,,,,female,73
+2020-02-19,Pakistan,,,,male,31
+2020-02-19,Pakistan,,,,female,47
+2020-02-19,Pakistan,,,,male,38
+2020-02-19,Pakistan,,,,female,47
+2020-02-19,Pakistan,,,,female,31
+2020-02-19,Czechia,0,,,female,28
+2020-02-19,Israel,0,,0,female,48
+2020-02-19,Poland,0,0,0,female,44
+2020-02-19,South Korea,51,16,,NA,NA
+2020-02-19,United Kingdom,20,,,NA,NA
+2020-02-19,United States,0,,0,female,32
+2020-02-19,United States,0,,0,male,NA
+2020-02-19,United States,0,,0,female,42
+2020-02-19,United States,0,,0,male,0.5
+2020-02-19,United States,0,,0,male,45
+2020-02-19,United States,0,,0,male,41
+2020-02-20,Pakistan,,,,male,27
+2020-02-20,Pakistan,,,,male,53
+2020-02-20,Pakistan,,,,female,42
+2020-02-20,Pakistan,,,,female,39
+2020-02-20,Pakistan,,,,female,40
+2020-02-20,Pakistan,,,,male,64
+2020-02-20,Pakistan,,,,female,38
+2020-02-20,Pakistan,,,,male,53
+2020-02-20,Pakistan,,,,female,52
+2020-02-20,Czechia,0,,,male,51
+2020-02-20,Israel,0,,0,male,36
+2020-02-20,South Korea,104,16,1,male,71
+2020-02-20,United Kingdom,20,,,male,39
+2020-02-20,United States,0,,0,male,54
+2020-02-20,United States,0,,0,male,37
+2020-02-20,United States,0,,0,female,2
+2020-02-20,United States,0,,0,male,35
+2020-02-20,United States,0,,0,male,39
+2020-02-20,United States,0,,0,male,34
+2020-02-21,Pakistan,,,,male,46
